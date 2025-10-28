@@ -96,8 +96,7 @@ async def sub_bay(callback_query: types.CallbackQuery):
 
     await callback_query.answer()  
     await callback_query.message.answer(
-        "This is TEST payment.\nUse 4242 4242 4242 4242 card number, use any date and any CVV you want.\n\n"
-        "Это ТЕСТОВЫЙ платеж.\nИспользуйте номер карты 4242 4242 4242 4242, любой срок действия и любой CVV."
+        "This is TEST payment.\nUse 4242 4242 4242 4242 card number, use any date and any CVV you want."
     )
 
 

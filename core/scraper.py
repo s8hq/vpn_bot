@@ -2,7 +2,7 @@ import aiohttp
 from bs4 import BeautifulSoup
 
 BASE_URL = "https://keysoutline.com"
-BOT_URL = "t.me/kunafa_vpn_bot"  
+BOT_URL = "t.me/lemonVPNkeys_bot"  
 
 
 async def fetch_html(url):

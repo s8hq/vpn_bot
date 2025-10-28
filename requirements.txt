@@ -1,0 +1,7 @@
+aiogram==3.6.0
+environs
+fastapi
+pip-chill
+uvicorn
+aiohttp
+bs4
